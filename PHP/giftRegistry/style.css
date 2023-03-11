@@ -1,0 +1,21 @@
+table{
+
+    border-collapse: collapse;
+}
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    border: 1px solid black;
+}
+.error {
+    color: red;
+}
+.success{
+    color: green;
+}
+h1{
+    text-align: center;
+}
